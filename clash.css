@@ -1,0 +1,31 @@
+*{
+	text-align: right;
+}
+h1{
+	border: 2px solid red;
+		color: white;
+	padding: 200px;
+	margin:30px;
+	text-align: center;
+	background-image: url(50469256_2111303208926807_746960972450627584_o.jpg);
+	text-decoration: line-through red;
+	background-size: cover;
+}
+p{
+	color: white;
+	font-family: Arial;
+	line-height: 30px;
+	text-align: center;
+}
+body{
+	background-color: black;
+}
+h2{
+	text-align: center;
+	display: inline-block;
+	color: white;
+
+}
+h2:after{
+	content: " | ";
+	color: red;
